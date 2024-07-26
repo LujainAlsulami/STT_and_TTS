@@ -1,5 +1,5 @@
 # STT_and_TTS
-This repository includes combines all the tasks into one single page that takes the user's voice and converts it into text to send it to Gemini and return the response in a voice. 
+This repository combines all the tasks into one single page that takes the user's voice and converts it into text to send it to Gemini and return the response in a voice. 
 
 
  output:
